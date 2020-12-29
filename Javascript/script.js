@@ -3,7 +3,7 @@ if(a.toUpperCase() == "YES")
     alert("ok");
 else
 { 
-    alert("What the Fuck , Karen");
+    alert("A simple alert");
     console.log("Yo");
 }
 
